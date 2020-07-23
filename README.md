@@ -1,2 +1,2 @@
-# tik-tok-clock
-used p5.js functions like rotate and translate 
+# p5.play-boilerplate
+Boiler plate for p5.play
